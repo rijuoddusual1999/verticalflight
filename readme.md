@@ -4,3 +4,4 @@ Since childhood I have always wanted to fly so I dedicate this site to rotary-wi
 
 You can preview this website at **https://rijuoddusual1999.github.io/verticalflight/**
 
+This is a desktop based app for now, but I will be updating the media queries soon for hosting this site in any device. 
